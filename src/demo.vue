@@ -1,6 +1,6 @@
 <template>
     <div>
-        rebase
+        rebase-vue
     </div>
 </template>
 
