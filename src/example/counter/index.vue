@@ -16,7 +16,8 @@ export default {
     data() {
         return {
             number: 0,
-            double: 0
+            double: 0,
+            number2: 0,
         }
     },
     mounted() {
